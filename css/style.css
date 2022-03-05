@@ -158,6 +158,7 @@ li a:hover {
     letter-spacing: 1px;
     border-radius: 30px;
     outline: none;
+    margin-bottom: 15px;
 }
 
 .btn2{ 
